@@ -1,3 +1,11 @@
+Здесь будут мои попытки переписать PyTyle на Python 3. На данный момент ту находится оригинальная (классическая) версия PyTyle.
+
+------
+
+Here are my attempts to rewrite PyTyle in Python 3. At the moment, that one is the original version of PyTyle.
+
+======================================================================================================================
+
 This is the ORIGINAL pytyle. It is not longer under active development.
 However, it may be useful to some where the newer pytyle
 (http://github.com/BurntSushi/pytyle) does not work well.
